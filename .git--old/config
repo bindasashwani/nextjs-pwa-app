@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	logallrefupdates = true
-[remote "nextjs-pwa-app"]
-	url = https://github.com/bindasashwani/nextjs-pwa-app.git
-	fetch = +refs/heads/*:refs/remotes/nextjs-pwa-app/*
